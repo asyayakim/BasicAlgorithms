@@ -2,16 +2,6 @@
 
 A console application demonstrating and benchmarking three fundamental sorting algorithms with detailed space complexity analysis.
 
-## Table of Contents
-- [Features](#-features)
-- [Algorithms Implemented](#-algorithms-implemented)
-- [Complexity Analysis](#-complexity-analysis)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Results Interpretation](#-results-interpretation)
-- [Possible Improvements](#-possible-improvements)
-- [License](#-license)
-
 ## Features
 - Implementation of three core sorting algorithms:
   - QuickSort (with partition scheme)
